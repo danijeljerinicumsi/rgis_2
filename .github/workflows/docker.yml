@@ -28,5 +28,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            danijeljerinicumsi/rgis_2:latest
-            danijeljerinicumsi/rgis_2:${{ github.sha }}
+            ditengineer/rgis_2:0.1
+            ditengineer/rgis_2:${{ github.sha }}
